@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      
+      <h1 className='bg-gray-600 text-white'>To Do List</h1>
     </>
   )
 }
