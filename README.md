@@ -21,9 +21,11 @@
    cd to-do-list-app
 
 2. **Install Dependencies:**
+    ```bash
     npm install
 
 3. **Run the app locally:**
+    ```bash
     npm run dev
 
 ## 💡 Future Improvements
