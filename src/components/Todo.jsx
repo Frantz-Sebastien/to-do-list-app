@@ -40,7 +40,7 @@ const Todo = () => {
 
   }
   useEffect(() => {
-    console.log(tasks)
+    localStorage.setItem("task", JSON.stringify(tasks))
   }, [tasks])
     
   return (
